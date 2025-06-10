@@ -108,4 +108,4 @@ Users select a category (Programming or Mathematics), choose the number of quest
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [Apache License](LICENSE)
