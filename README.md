@@ -64,7 +64,7 @@ After you're done, you’ll see how many questions you got right!
 
 
 ---
-##Screenshots
+## Screenshots
 
 **Before Starting the Quiz**
 
