@@ -5,32 +5,23 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/Quiz-App-With-Timer)]()
 [![GitHub last-commit](https://img.shields.io/github/last-commit/deepikagandla7456/Quiz-App-With-Timer)]()
 
-<img title="Quiz App Logo" align='right' src="https://github.com/user-attachments/assets/your-image-link-here" alt="Quiz App Logo" width="210"/>
-
 Boost your skills with the **Quiz App with Timer**!  
-This interactive web quiz helps you practice Programming or Mathematics questions under time pressure. Simple and fun – perfect for students and learners!
-
----
-
-<p align="center">
-Practice under pressure. Learn with speed.
-</p>
-<p align="center"><i>Stay sharp with timed quizzes.</i></p>
+This interactive web quiz helps you practice Programming or Mathematics questions under time constraint.
 
 ---
 
 ## About
 
 **Quiz App with Timer** is a lightweight quiz application built with **HTML**, **CSS**, and **JavaScript**.  
-Users select a category (Programming or Mathematics), choose the number of questions, and then take a timed quiz. Once completed, a final message shows that, for example, “9 out of 10 questions are correct” along with an option to try again.
+User will need to select a category (Programming or Mathematics), choose the number of questions they want, and start the quiz. Once the quiz is completed, the final message shows that how many answers were correct.
 
 ---
 
 ## Limitations & Future Work
 
-- Questions are static and written inside the script.
-- Limited to two categories.
-- No data persistence for past attempts.
+- Right now, the questions are static and written inside the script.
+- Only two categories are available.
+- The past quiz results aren’t saved.
 
 ### Future Work
 
@@ -45,9 +36,9 @@ Users select a category (Programming or Mathematics), choose the number of quest
 
 - Category selection: Programming or Mathematics.
 - Choose the number of questions: 5, 10, 15, 20, 25.
-- Countdown timer during the quiz.
-- Final message shows results (e.g., “9 out of 10 questions are correct”).
-- Responsive design that works on all devices.
+- A countdown timer shows the time left.
+- Final message shows how many answers were correct.
+- Works well on phones, tablets, and desktops.
 - "Try Again" button to restart the quiz.
 
 ---
@@ -55,7 +46,7 @@ Users select a category (Programming or Mathematics), choose the number of quest
 ## Requirements
 
 - A modern web browser (Chrome, Firefox, Edge, etc.)
-- No installation needed – just open the HTML file.
+- No installation is needed – just open the HTML file.
 
 ---
 
