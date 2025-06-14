@@ -66,9 +66,9 @@ After you're done, you’ll see how many questions you got right!
 ---
 ## Screenshots
 
-**Before Starting the Quiz*
+***Before Starting the Quiz***
 
-**After Completing the Quiz*
+***After Completing the Quiz***
 
 ## License
 
