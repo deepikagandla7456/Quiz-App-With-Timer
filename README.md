@@ -5,15 +5,15 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/Quiz-App-With-Timer)]()
 [![GitHub last-commit](https://img.shields.io/github/last-commit/deepikagandla7456/Quiz-App-With-Timer)]()
 
-Boost your skills with the **Quiz App with Timer**!  
-This interactive web quiz helps you practice Programming or Mathematics questions under time constraint.
+The Quiz App with Timer is a simple web app that helps you test your Programming or Math knowledge.
+Choose a category, pick the number of questions, and answer them before time runs out!
 
 ---
 
 ## About
-
-**Quiz App with Timer** is a lightweight quiz application built with **HTML**, **CSS**, and **JavaScript**.  
-User will need to select a category (Programming or Mathematics), choose the number of questions they want, and start the quiz. Once the quiz is completed, the final message shows that how many answers were correct.
+This quiz app is built with **HTML*, **CSS*, and **JavaScript*.
+You can select a category (Programming or Mathematics), choose how many questions you want to attempt, and start the quiz.
+After you're done, you’ll see how many questions you got right!
 
 ---
 
@@ -62,33 +62,6 @@ User will need to select a category (Programming or Mathematics), choose the num
 
    * Open `index.html` in your browser to start the quiz.
 
-## Usage
-
-1. **Launch the App:** Open `index.html` in your preferred browser.
-2. **Quiz Configuration:** The first screen displays:
-
-   ```
-   Quiz Configuration
-
-   Select Category:
-   - Programming
-   - Mathematics
-
-   No. of Questions:
-   - 5, 10, 15, 20, 25
-
-   [Start Quiz]
-   ```
-3. **During the Quiz:** Answer each question while a countdown timer runs.
-4. **Final Result:** After completing the quiz, you will see a message such as:
-
-   ```
-   Quiz Completed!
-
-   You answered 9 out of 10 questions correctly.
-
-   [Try Again]
-   ```
 
 ---
 ##Screenshots
