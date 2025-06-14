@@ -1,5 +1,5 @@
 
-# [Quiz App with Timer](deepikagandla7456.github.io/Quiz-App-With-Timer/)
+# [Quiz App with Timer](https://deepikagandla7456.github.io/Quiz-App-With-Timer/)
 [![GitHub license](https://img.shields.io/github/license/deepikagandla7456/Quiz-App-With-Timer)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/deepikagandla7456/Quiz-App-With-Timer)]()
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/Quiz-App-With-Timer)]()
