@@ -65,8 +65,15 @@ After you're done, you’ll see how many questions you got right!
 ## Screenshots
 
 ***Before Starting the Quiz***
+![Image](https://github.com/user-attachments/assets/38542de7-0011-4448-981e-d3fd6589db0e)
+
+***During the Quiz***
+![Image](https://github.com/user-attachments/assets/8632badd-ebdd-4982-a2cc-ca0c161ae784)
+
+![Image](https://github.com/user-attachments/assets/d89111de-bb99-465e-80a3-996ca1ff3c37)
 
 ***After Completing the Quiz***
+![Image](https://github.com/user-attachments/assets/757f9cf1-f58b-4a38-8594-85af87fa06f7)
 
 ## License
 
