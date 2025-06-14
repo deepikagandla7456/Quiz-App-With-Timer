@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #e6f7ff;
+  background: #5145BA;
 }
 
 .popup-container {
@@ -104,8 +104,8 @@ body {
 }
 
 .config-option button.active {
-  color:blue;
-  border-color: blue;
+  color: #5145BA;
+  border-color: #5145BA;
   background: #dfdafd;
 }
 
@@ -124,7 +124,7 @@ body {
   color: #fff;
   border: none;
   font-weight: 500;
-  background: #yellow;
+  background: #5145BA;
   padding: 13px 25px;
   cursor: pointer;
   font-size: 1rem;
@@ -321,4 +321,3 @@ body {
     font-size: 1.4rem;
   }
   }
-  
