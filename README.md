@@ -53,12 +53,13 @@ After you're done, you’ll see how many questions you got right!
 ## Setup and Installation
 
 1. **Clone the Repository**
-   ``bash
+   ```shell
    git clone https://github.com/deepikagandla7456/Quiz-App-With-Timer.git
+    
    cd Quiz-App-With-Timer
-  ``
+  
 
-2. **Run the App**
+3. **Run the App**
 
    * Open `index.html` in your browser to start the quiz.
 
