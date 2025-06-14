@@ -104,8 +104,8 @@ body {
 }
 
 .config-option button.active {
-  color: #5145BA;
-  border-color: #5145BA;
+  color:blue;
+  border-color: blue;
   background: #dfdafd;
 }
 
