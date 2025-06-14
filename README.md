@@ -25,7 +25,7 @@ After you're done, you’ll see how many questions you got right!
 ### Future Work
 
 - Dynamically load questions from JSON or an API.
-- Add more categories and adjustable timer settings.
+- Add more categories and allow custom timer settings.
 - Store scores locally or on a backend.
 - Implement additional features like difficulty levels and a leaderboard.
 
@@ -66,9 +66,9 @@ After you're done, you’ll see how many questions you got right!
 ---
 ## Screenshots
 
-**Before Starting the Quiz**
+**Before Starting the Quiz*
 
-**After Completing the Quiz**
+**After Completing the Quiz*
 
 ## License
 
