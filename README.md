@@ -29,7 +29,7 @@ After you're done, you’ll see how many questions you got right!
 
 ---
 
-## Features
+## Usage
 
 - Category selection: Programming or Mathematics.
 - Choose the number of questions: 5, 10, 15, 20, 25.
