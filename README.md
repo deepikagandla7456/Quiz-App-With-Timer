@@ -12,8 +12,6 @@ This quiz app is built with *HTML*, *CSS*, and *JavaScript*.
 You can select a category (Programming or Mathematics), choose how many questions you want to attempt, and start the quiz.
 After you're done, you’ll see how many questions you got right!
 
----
-
 ## Limitations & Future Work
 
 - Right now, the questions are static and written inside the script.
