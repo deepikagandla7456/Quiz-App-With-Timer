@@ -83,6 +83,7 @@ body {
   grid-template-columns: repeat(2, 1fr);
 }
 
+l
 .config-option .question-options {
   display: flex;
   flex-wrap: wrap;
@@ -320,4 +321,4 @@ body {
   .result-container .result-title {
     font-size: 1.4rem;
   }
-  }
+}
