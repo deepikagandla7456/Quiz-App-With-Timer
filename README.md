@@ -61,17 +61,16 @@ After you're done, you’ll see how many questions you got right!
 
 ---
 ## Screenshots
-
 ***Before Starting the Quiz***
-![Image](https://github.com/user-attachments/assets/38542de7-0011-4448-981e-d3fd6589db0e)
-
+<img width="1916" height="902" alt="Image" src="https://github.com/user-attachments/assets/1dc59abe-ace8-4a92-9902-631b5c2ff3a8" />
 ***During the Quiz***
-![Image](https://github.com/user-attachments/assets/8632badd-ebdd-4982-a2cc-ca0c161ae784)
+<img width="1912" height="914" alt="Image" src="https://github.com/user-attachments/assets/5ffab217-ac98-44a7-8084-d4c7422bd78c" />
 
-![Image](https://github.com/user-attachments/assets/d89111de-bb99-465e-80a3-996ca1ff3c37)
+<img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/c23b8372-2a20-4242-979f-ff04ceb6ebfd" />
+<img width="1915" height="902" alt="Image" src="https://github.com/user-attachments/assets/cb0780e0-13a1-4fa7-bf08-d5829b042c2e" />
 
 ***After Completing the Quiz***
-![Image](https://github.com/user-attachments/assets/757f9cf1-f58b-4a38-8594-85af87fa06f7)
+<img width="1919" height="908" alt="Image" src="https://github.com/user-attachments/assets/7e91e277-d6e9-48f2-8b3d-449415736bd2" />
 
 ## License
 
