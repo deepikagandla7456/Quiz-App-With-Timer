@@ -51,7 +51,7 @@ After you're done, you’ll see how many questions you got right!
    ```shell
    git clone https://github.com/deepikagandla7456/Quiz-Application-With-Timer.git
     
-   cd Quiz-App-With-Timer
+   cd Quiz-Application-With-Timer
   
 
 3. **Run the App**
