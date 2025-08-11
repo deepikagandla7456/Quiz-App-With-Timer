@@ -1,5 +1,5 @@
 
-# [Quiz App with Timer](https://deepikagandla7456.github.io/Quiz-App-With-Timer/)
+# [Quiz Application with Timer](https://deepikagandla7456.github.io/Quiz-App-With-Timer/)
 [![GitHub license](https://img.shields.io/github/license/deepikagandla7456/Quiz-App-With-Timer)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/deepikagandla7456/Quiz-App-With-Timer)]()
 [![GitHub contributors](https://img.shields.io/github/contributors/deepikagandla7456/Quiz-App-With-Timer)]()
@@ -8,7 +8,7 @@
 The Quiz App with Timer is a simple web app that helps you test your programming or math knowledge. Just choose a category, select the number of questions, and answer them before the timer runs out!
 
 ## About
-This quiz app is built with *HTML*, *CSS*, and *JavaScript*.
+This quiz application is built with *HTML*, *CSS*, and *JavaScript*.
 You can select a category (Programming or Mathematics), choose how many questions you want to attempt, and start the quiz.
 After you're done, you’ll see how many questions you got right!
 
